@@ -1,0 +1,22 @@
+{
+  "name": "postgresqlqueries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theweboratory/postgresql-queries.git"
+  },
+  "author": "Billy Duck (The Weboratory)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theweboratory/postgresql-queries/issues"
+  },
+  "homepage": "https://github.com/theweboratory/postgresql-queries#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
